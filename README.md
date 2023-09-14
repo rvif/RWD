@@ -1,7 +1,13 @@
 ### Cafe menu made with html and css
 
-![Alt text](image-1.png)
+![cafe-menu](assets/cafemenu.png)
 
 ### Color markers using css
 
-![color-theory](image.png)
+![color-theory](assets/colortheory.png)
+
+### Registration form
+
+![form](assets/form.png)
+
+
