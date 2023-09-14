@@ -4,5 +4,4 @@
 
 ### Color markers using css
 
-### Color markers using css
 ![color-theory](image.png)
