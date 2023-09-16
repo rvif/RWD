@@ -12,8 +12,8 @@
 
 ### Survey form
 
-![survey-pg1](assests/surveypg1.png)
-![survey-pg2](assests/surveypg2.png)
+![survey-pg1](assets/surveypg1.png)
+![survey-pg2](assets/surveypg2.png)
 
 
 
