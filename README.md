@@ -15,6 +15,8 @@
 ![survey-pg1](assets/surveypg1.png)
 ![survey-pg2](assets/surveypg2.png)
 
+### Rothko abstract painting
 
+![rothko-painting](assets/rothko.png)
 
 
