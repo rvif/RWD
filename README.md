@@ -1,7 +1,7 @@
 ### Cafe menu made with html and css
 
-![Alt text](image-1.png)
+![Cafe-Menu](assets\cafemenu.png)
 
 ### Color markers using css
 
-![color-theory](image.png)
+

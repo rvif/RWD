@@ -1,0 +1,97 @@
+body {
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(255, 0, 0, 0.75);
+    background-image: url("https://wallpapertag.com/wallpaper/full/2/5/8/226671-top-gym-wallpaper-2048x1430.jpg");
+    color: white;
+    font-family: Tahoma;
+    font-size: 25px;
+    margin: 0px;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    margin: 0px auto;
+    font-size: 2em;
+    padding: 25px 0px;
+}
+
+p {
+    text-align: center;
+    margin: 0px auto;
+    font-size: 1em;
+    padding: 25px 0px;
+}
+
+form {
+    display: block;
+    background-color: rgba(0, 0, 0, 0.75);
+    width: 60vw;
+    max-width: 1000px;
+    margin: 0 auto;
+}    
+fieldset {
+    border: none;
+    padding: 1em 1.5em;
+    margin: 0;
+}
+
+label {
+    display: block;
+    margin: 0;
+    margin-bottom: .2em;
+    
+}
+
+input, textarea, select {
+    margin: 0;
+    width: 100%;
+    min-height: 2em;
+    font-size: 1em;
+    border-radius: 5px;
+}
+
+.inline {
+    width: unset;
+    margin: 0px 0.3em 0.1em 0px;
+    vertical-align: middle;
+}
+
+input[type="submit"] {
+    display: block;
+    width: 60%;
+    height: 1em;
+    margin: 1em auto;
+    font-size: 1.1em;
+    background-color: green;
+    color: white;
+    min-width: 200px;
+}
+#name, #email, #number{
+    padding-left: 8px;
+}
+#suggestion {
+    padding: 10px;
+}
+
+#dropdown, #dropdown-2 {
+    padding-left: 8px;
+}
+
+#cb {
+    width: 30px;
+    height: 30px;
+}
+
+#checkbox {
+    width: 30px;
+    height: 30px;
+}
+.input-textarea{
+    min-height: 120px;
+    width: 100%;
+    padding: 0.625rem;
+    resize: vertical;
+    box-sizing: border-box
+}
