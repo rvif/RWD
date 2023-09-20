@@ -19,4 +19,8 @@
 
 ![rothko-painting](assets/rothko.png)
 
+### Typography (Nutrition Label)
+
+![image](https://github.com/rvif/RWD/assets/127775103/285631f0-794c-41e2-b9ac-8f7b6e186a79)
+
 
