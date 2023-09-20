@@ -27,4 +27,9 @@
 
 ![Screenshot 2023-09-20 201839](https://github.com/rvif/RWD/assets/127775103/03d42a5e-948b-49b1-a155-ec2ecd538673)
 
+### Tribute page
+
+![tribute-page](https://github.com/rvif/RWD/assets/127775103/3f4c7aed-1d77-4262-a9b2-1ec573f9c782)
+
+
 
