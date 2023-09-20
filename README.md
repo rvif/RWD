@@ -27,4 +27,8 @@
 
 ![Screenshot 2023-09-20 201839](https://github.com/rvif/RWD/assets/127775103/03d42a5e-948b-49b1-a155-ec2ecd538673)
 
+### Tribute page
+
+![Tribute Page and 1 more page - Personal - Microsoft_ Edge 2023-09-21 01-18-52](https://github.com/rvif/RWD/assets/127775103/4761ad4b-7699-434d-aea6-63abfe588e60)
+
 
