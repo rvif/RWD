@@ -43,4 +43,6 @@
 
 <img src="assets/Technical Documentatio gif.gif" alt="doc_web_preview">
 
+### Cat painting 
 
+ ![image](assets/cat-painting.png)
