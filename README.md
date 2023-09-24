@@ -46,3 +46,7 @@
 ### Cat painting 
 
  ![image](assets/cat-painting.png)
+
+ ### Ferris Wheel
+
+  ![image](assets/ferris-wheel.gif)
