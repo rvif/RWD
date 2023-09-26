@@ -47,6 +47,10 @@
 
  ![image](assets/cat-painting.png)
 
- ### Ferris Wheel
+### Ferris Wheel
 
   ![image](assets/ferris-wheel.gif)
+
+### Responsive Magazine
+
+  ![image](assets/responsive-magazine.jpeg)
