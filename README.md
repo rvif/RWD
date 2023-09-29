@@ -54,3 +54,7 @@
 ### Responsive Magazine
 
   ![image](assets/responsive-magazine.jpeg)
+
+### City Skyline 
+
+  ![image](assets/city-day.png) ![image](assets/city-night.png)
