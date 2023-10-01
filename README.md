@@ -58,3 +58,7 @@
 ### City Skyline 
 
   ![image](assets/city-day.png) ![image](assets/city-night.png)
+
+### Penguin animation
+
+ <img src="assets/penguin.gif" alt="penguin-animation-gif">
