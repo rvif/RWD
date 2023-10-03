@@ -62,3 +62,7 @@
 ### Penguin animation
 
  <img src="assets/penguin.gif" alt="penguin-animation-gif">
+
+### Product landing page
+ 
+ <img src="assets/product-page.jpeg" alt="product-page">
