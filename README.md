@@ -66,3 +66,11 @@
 ### Product landing page
  
  <img src="assets/product-page.jpeg" alt="product-page">
+
+### Personal Portfolio page
+
+ <img src="assets/portfolio-page.jpeg" alt="portfolio-page">
+
+### Course completion Certificate
+
+ <img src="assets/certificate.png" alt="certificate">
